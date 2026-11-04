@@ -1,0 +1,8 @@
+{
+  "name": "Khatabook & Daily Expense Manager",
+  "description": "Modern responsive daily expense management system with Indian Rupee tracking, Paid/Due status, LocalStorage persistence, and Excel report export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
